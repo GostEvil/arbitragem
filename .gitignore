@@ -1,0 +1,11 @@
+# Ignorar ficheiros compactados
+*.zip
+*.rar
+
+# Ignorar todas as pastas (por extensão ou explicitamente)
+Epoca 24-25/
+Epoca 25-26/
+Sinval Enviou/
+Testes/
+Testes aras/
+/*/
