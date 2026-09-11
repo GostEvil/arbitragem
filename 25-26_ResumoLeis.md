@@ -11,6 +11,23 @@
 * **Balizas:** 3m de distância interna entre os postes; 2m da parte inferior da barra ao solo. Postes e barra com 8cm de largura e espessura, de cor diferente da superfície. Não podem estar fixas ao pavimento, devem ser móveis com sistema de estabilização.
 * **Deslocamento da Baliza:** Um golo é válido se a baliza for deslocada e a bola passar totalmente a linha de golo no espaço original. Se um atacante deslocar a baliza, o golo não é válido.
 
+<br>
+
+> [!IMPORTANT]
+> **Quadro Resumo - Deslocamento da Baliza**
+
+| Jogador | Intenção | Situação da Bola | Decisão Técnica | Decisão Disciplinar |
+| :--- | :--- | :--- | :--- | :--- |
+| **Defensor** | Acidental | Não entra ou toca / Toca, mas não entra | Lançamento de bola ao solo | Nenhuma |
+| **Defensor** | Deliberada | Não entra nem toca na baliza | Pontapé-Livre Indireto (PLI) | Cartão Amarelo |
+| **Defensor** | Deliberada | Toca, mas não entra na baliza | Pontapé de Penálti | Cartão Vermelho (anular golo/COG) |
+| **Defensor** | Acidental | Entra na baliza | Golo Válido | Nenhuma |
+| **Defensor** | Deliberada | Entra na baliza | Golo Válido | Cartão Amarelo |
+| **Atacante** | Acidental | Qualquer (O golo nunca é validado) | Lançamento de bola ao solo | Nenhuma |
+| **Atacante** | Deliberada | Baliza entra em contacto com a bola | Pontapé-Livre Direto a favor da defesa | Cartão Amarelo |
+| **Atacante** | Deliberada | Baliza não entra em contacto com a bola | Pontapé-Livre Indireto a favor da defesa | Cartão Amarelo |
+
+
 ## Lei 2 - A Bola
 * **Características:** Esférica, material adequado, 62cm-64cm de circunferência, 400g-440g no início.
 * **Pressão:** 0.6-0.9 atm ao nível do mar.
